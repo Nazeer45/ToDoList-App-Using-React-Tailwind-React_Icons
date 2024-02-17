@@ -9,6 +9,6 @@ This is a simple Todo List application built using React, Tailwind CSS, and Reac
 * Responsive Design: The app is responsive and works seamlessly across different devices and screen sizes.
 Accessibility: Built with accessibility in mind, ensuring all users can interact with the app effectively.
 # Technologies Used :-
-React: A JavaScript library for building user interfaces.
-Tailwind CSS: A utility-first CSS framework for rapidly building custom designs.
-React Icons: A library containing popular icon packs as React components.
+* React: A JavaScript library for building user interfaces.
+* Tailwind CSS: A utility-first CSS framework for rapidly building custom designs.
+* React Icons: A library containing popular icon packs as React components.
